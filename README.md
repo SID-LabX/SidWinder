@@ -1,8 +1,12 @@
 # SidWinder
 
-## ⚠️ License Notice
-This project is **proprietary software**. The source code is publicly visible for educational and evaluation purposes only. Commercial use, distribution, and unauthorized modification of this software are strictly prohibited under the terms of the proprietary license. See the `LICENSE` file for full terms.
+## Contributing
 
+We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and note that all contributors must sign our [Contributor License Agreement (CLA)](CLA.md) before pull requests can be merged.
+
+## License
+
+This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LICENSE](LICENSE).
 ---
 
 ## About SidWinder
@@ -169,5 +173,4 @@ To completely remove this project from your computer:
 
 ---
 
-- [ ] security ---> [hidden](readmeTODO.md)
-- [ ] 
+- [ ] security
